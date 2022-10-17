@@ -1,9 +1,13 @@
 ### Hi there 👋 , I am Lucas Vinicus
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasVinicius-sudo&layout=compact&langs_count=7&theme=dracula"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVinicius-sudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
  🌱 I’m currently learning:
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <i class="devicon-css3-plain colored"></i>
- <i class="devicon-javascript-plain colored"></i>
- <i class="devicon-figma-plain colored"></i>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasVinicius-sudo&hide=contribs,prs)
 <!--
 **LucasVinicius-sudo/LucasVinicius-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
