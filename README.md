@@ -5,8 +5,8 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVinicius-sudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 🌱 I’m currently learning: HTML,CSS,JAVASCRIPT,PHP,LARAVEL,REACT
- 🌱 I’m student at UFAL,21y,#OpentoWork
+ 🌱 I’m currently learning: HTML,CSS,JAVASCRIPT,PHP,LARAVEL,REACT<br>
+ 🌱 I’m student at UFAL,21y,#OpentoWork<br>
  "True , we don't have anything such a fate<br>
  it's only those who drink in ingnorance and fear<br>
  and stumble over their own feet<br>
