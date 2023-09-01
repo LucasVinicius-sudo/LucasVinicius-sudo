@@ -5,14 +5,13 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVinicius-sudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
- 🌱 I’m currently learning: HTML,CSS,JAVASCRIPT,PHP,LARAVEL,REACT<br>
+ 🌱 I’m currently learning NMAP,LUA,Python and CyberSecurity Skills<br>
  🌱 I’m student at UFAL,22y,#OpentoWork<br>
- "Nobody Cares Work Hard"<br>
+ 🌱 I'm currently in Acha Extension Project at UFAL , where I Study Cybersercurity<br>
+ 👯 I’m looking to collaborate on Cybersecurity and I am free to Cybersecurity Jobs<br>
+ "A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are."<br>
  
  
-
-
-
 <!--
 **LucasVinicius-sudo/LucasVinicius-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
