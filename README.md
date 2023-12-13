@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVinicius-sudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- 🌱 I’m currently learning CyberSecurity SKills<img src="{https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white}" /> <br>
+ 🌱 I’m currently learning Programming Skills <br>
  🌱 I’m student at UFAL,22y,#OpentoWork<br>
  🌱 I'm currently in Acha Extension Project at UFAL , where I Study Cybersercurity<br>
  👯 I’m looking to collaborate on Cybersecurity and I am free to Cybersecurity Jobs<br>
