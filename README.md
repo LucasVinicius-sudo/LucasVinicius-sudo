@@ -8,7 +8,7 @@
 
  ## About Me
 
-Hi there! I'm Lucas Vinicius Moura Costa , 23 Years ,from Brazil,a Junior Back-End Developer with a passion for creating efficient and scalable server-side applications, and I am Science computer student at UFAL , Alongside all this, I'm an avid Formula 1 enthusiast and Ferrari Fan. 
+Hi there! I'm Lucas Vinicius Moura Costa, a 23-year-old Junior Back-End Developer from Brazil. I specialize in creating efficient and scalable server-side applications. Currently, I'm studying Computer Science at UFAL. Alongside my development work, I'm an avid Formula 1 enthusiast and a passionate Ferrari fan.
 
 ## Interests
 
