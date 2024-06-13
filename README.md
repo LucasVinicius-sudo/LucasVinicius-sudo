@@ -6,26 +6,20 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVinicius-sudo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
- 🌱 I’m currently learning Programming Skills <br>
- 🌱 I’m student at UFAL,22y,#OpentoWork<br>
- 🌱 I'm currently in Acha Extension Project at UFAL , where I Study Cybersercurity<br>
- 👯 I’m looking to collaborate on Cybersecurity and I am free to Cybersecurity Jobs<br>
- "A bug is never just a mistake. It represents something bigger. An error of thinking. That makes you who you are."<br>
- 
- 
-<!--
-**LucasVinicius-sudo/LucasVinicius-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ ## About Me
 
-Here are some ideas to get you started:
+Hi there! I'm Lucas Vinicius Moura Costa , 23 Years ,from Brazil,a Junior Back-End Developer with a passion for creating efficient and scalable server-side applications, and I am Science computer student at UFAL , Alongside all this, I'm an avid Formula 1 enthusiast and Ferrari Fan. 
 
+## Interests
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Back-End Development:** Crafting robust APIs and microservices to power modern applications.
+- **Database Management:** Designing and optimizing databases for performance and scalability.
+- **Learning & Growth:** Continuously improving my skills and staying up-to-date with industry trends.
+
+## Skills
+
+- **Programming Languages:** Python, Java, JavaScript, PHP
+- **Frameworks & Libraries:** Node.js, Express.js, Django, Spring Boot
+- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Tools & Technologies:** Git, Docker, Kubernetes, RESTful APIs, GraphQL
+- **Testing:** Unit Testing, Integration Testing, Postman
