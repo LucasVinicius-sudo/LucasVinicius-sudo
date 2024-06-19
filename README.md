@@ -18,8 +18,8 @@ Hi there! I'm Lucas Vinicius Moura Costa, a 23-year-old Junior Back-End Develope
 
 ## Skills
 
-- **Programming Languages:** Python, Java, JavaScript, PHP
-- **Frameworks & Libraries:** Node.js, Express.js, Django, Spring Boot
+- **Programming Languages:** Python, JavaScript, PHP
+- **Frameworks & Libraries:** Node.js, Express.js, Django
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools & Technologies:** Git, Docker, Kubernetes, RESTful APIs, GraphQL
 - **Testing:** Unit Testing, Integration Testing, Postman
